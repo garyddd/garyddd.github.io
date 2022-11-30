@@ -1,6 +1,6 @@
 # Site settings
-title: Gary Dou
-description: 'My BLOG.' # this means to ignore newlines until "baseurl:"
+title: The Minimum Viable Model
+description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://garyddd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,20 +26,19 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Gary Dou # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Student.
-
+about-author: Student adnlasndoasndasndnasdjapiwnd dsajd ;ljasdajs ;djas ;a dl jasidh wqdnsahdo nhasbdh wbdiad basodnkjqwb d0hawq wqd 0dwqdwhqdn;ahwb   d iwqhdhasodqw
 # Contact links
 email: gary_dou327@163.com # Add your Email address
 phone: # Add your Phone number
 website: https://garyddd.github.io # Add your website
-# linkedin: amaynez # Add your Linkedin handle
+# linkedin: garyddd # Add your Linkedin handle
 github: garyddd # Add your Github handle
 # twitter: '@MvmThe' # Add your Twitter handle
 # bandcamp: armandomaynez # Add your Bandcamp username
 # stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+# mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Tracker
 analytics: G-R8SZS2YBZK

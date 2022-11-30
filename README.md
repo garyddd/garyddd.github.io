@@ -1,1 +1,0 @@
-# My blog that forked by Armando Maynez's project!
