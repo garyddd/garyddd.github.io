@@ -12,7 +12,6 @@ description: "统计方法学习 -- 感知机"
 toc:
 github:
 ---
-
 ## 感知机 -- perceptron
 
 > 感知机是二分类的线性分类模型，输出为+1和-1。
