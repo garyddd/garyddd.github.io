@@ -2,13 +2,13 @@
 layout: post
 read_time: true
 show_date: true
-title: "Test?"
-date: 2005-05-05
+title: "perceptron -- 感知机"
+date: 2022-11-30 18:30:56 +0800
 img: posts/20221130/ml.jpg
-tags: [你好, creativity, neural networks, machine learning, artificial intelligence]
-category: opinion
+tags: [统计学习方法, 机器学习, machine learning, artificial intelligence]
+category: 统计学习方法
 author: Gary
-description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
+description: "感知机是二分类的线性分类模型，是较为简单的模型。由Rosenblatt与1950年提出，是神经网络和支持向量机的基础。"
 mathjax: yes
 ---
 
