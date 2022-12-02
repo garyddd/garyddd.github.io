@@ -5,7 +5,7 @@ show_date: true
 title: "naïve Bayes -- 朴素贝叶斯"
 date: 2022-10-16 18:30:56 +0800
 img: posts/20221130/ml.jpg
-tags: [统计学习方法, 机器学习, machine learning, artificial intelligence]
+tags: [machine learning, coding, neural networks, python]
 category: 统计学习方法
 author: Gary
 mathjax: yes
