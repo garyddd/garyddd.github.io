@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "perceptron -- 感知机"
-date: 2022-11-30 18:30:56 +0800
+date: 2022-10-08 18:30:56 +0800
 img: posts/20221130/ml.jpg
 tags: [统计学习方法, 机器学习, machine learning, artificial intelligence]
 category: 统计学习方法
