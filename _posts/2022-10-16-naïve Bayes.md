@@ -100,7 +100,7 @@ $$
 
 ### python实现
 
-```python
+<pre class='highlight'>
 import numpy as np
 import pandas as pd
 from functools import reduce
@@ -136,5 +136,5 @@ data = train_data()
 label = [-1,-1,1,1,-1,-1,-1,1,1,1,1,1,1,1,-1]
 mybayes = naiveBayes(data, label)
 %time mybayes.fit([2,'S',1])
-```
+</pre>
 
